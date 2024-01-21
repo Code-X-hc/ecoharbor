@@ -19,3 +19,6 @@ We welcome contributions! Fork the repository, make your changes, and submit a p
 
 <h2>Connect with Us <br> </h2>
 Website: https://eco--harbor.web.app
+
+<h2>Contributors</h2>
+<a href="https://github.com/KhushalKD" >@KhushalKD</a> 
