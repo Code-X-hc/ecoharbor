@@ -12,7 +12,7 @@ EcoHarbor is a dynamic platform that utilizes data analytics to revolutionize en
 <li>Real-time environmental impact insights</li>
 <li>Static website for broad accessibility</li>
 <h2>Getting Started</h2>
-<li><b>Clone the repository:</b> git clone (https://github.com/AkulxSharma/ecoharbor.git) <br> </li>
+<li><b>Clone the repository:</b> git clone (https://github.com/code-x-hc/ecoharbor.git) <br> </li>
 <li>Open index.html in your preferred web browser.</li>
 <h2>Contributing</h2>
 We welcome contributions! Fork the repository, make your changes, and submit a pull request.
@@ -21,4 +21,5 @@ We welcome contributions! Fork the repository, make your changes, and submit a p
 Website: https://eco--harbor.web.app
 
 <h2>Contributors</h2>
-<a href="https://github.com/KhushalKD" >@KhushalKD</a> 
+<a href="https://github.com/KhushalKD" >@KhushalKD</a> <br>
+<a href="https://github.com/AkulxSharma" >@AkulxSharma</a> 
