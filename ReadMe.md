@@ -21,5 +21,5 @@ We welcome contributions! Fork the repository, make your changes, and submit a p
 Website: https://eco--harbor.web.app
 
 <h2>Contributors</h2>
-<a href="https://github.com/KhushalKD" >@KhushalKD</a> <br>
+<a href="https://github.com/DavesarxKhushal" >@KDavesarXKhushal</a> <br>
 <a href="https://github.com/AkulxSharma" >@AkulxSharma</a> 
