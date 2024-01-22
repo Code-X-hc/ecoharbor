@@ -15,7 +15,7 @@ EcoHarbor is a dynamic platform that utilizes data analytics to revolutionize en
 <li><b>Clone the repository:</b> git clone (https://github.com/code-x-hc/ecoharbor.git) <br> </li>
 <li>Open index.html in your preferred web browser.</li>
 <h2>Contributing</h2>
-We welcome contributions! Fork the repository, make your changes, and submit a pull request.
+We welcome contributions! Fork the repository, make your changes, and submit a pull request!
 
 <h2>Connect with Us <br> </h2>
 Website: https://eco--harbor.web.app
